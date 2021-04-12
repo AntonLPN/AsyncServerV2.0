@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncServerV2.0", "AsyncServerV2.0\AsyncServerV2.0.csproj", "{A15CAAD6-D263-4CDC-8DE2-7E0189F965E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{098FEA7D-E633-4AAB-B468-8539407BC4EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF466F9D-0C78-4547-A435-124729C58682}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Библиотека", "Библиотека", "{0D92A8C2-5BC4-4A45-8172-44033E96C94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15CAAD6-D263-4CDC-8DE2-7E0189F965E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15CAAD6-D263-4CDC-8DE2-7E0189F965E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15CAAD6-D263-4CDC-8DE2-7E0189F965E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15CAAD6-D263-4CDC-8DE2-7E0189F965E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098FEA7D-E633-4AAB-B468-8539407BC4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098FEA7D-E633-4AAB-B468-8539407BC4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098FEA7D-E633-4AAB-B468-8539407BC4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098FEA7D-E633-4AAB-B468-8539407BC4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E9807EE-6ED6-418B-8145-1146E17746B2}
+	EndGlobalSection
+EndGlobal
